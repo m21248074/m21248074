@@ -85,7 +85,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 ![Github Metrics Classic](https://metrics.lecoq.io/m21248074?template=classic)
 
-![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal)
+<!--![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal)-->
 
 </center>
 
