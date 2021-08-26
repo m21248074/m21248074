@@ -83,9 +83,9 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <center>
 
-![Github Metrics Classic](https://metrics.lecoq.io/m21248074)
+![Github Metrics Classic](https://metrics.lecoq.io/m21248074?template=classic)
 
-![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal&config.timezone=Asia%2FTaipei)
+![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal)
 
 </center>
 
