@@ -31,11 +31,11 @@ Hi there, I'm [Cavey](https://m21248074.github.io)!
 
 </div>
 
-<center>
+<div align="center">
 
 Hi, I'm Tian Kai-Wei, a junior student studying Information Management from Taiwan.
 
-</center>
+</div>
 
 <img align='right' src="https://raw.githubusercontent.com/nirala96/nirala96/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300"></img>
 
@@ -68,11 +68,11 @@ var Cavey = { // I am a variable, rather than a constant.
 }
 ```
 
-<center>
+<div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love connecting with people who have different IT skills** so if you want to say **hi, I'll be happy to meet you more!** :)
 
-</center>
+</div>
 
 ## 📊 GitHub Stats... <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
@@ -81,48 +81,48 @@ var Cavey = { // I am a variable, rather than a constant.
 <img align="right" src="https://badges.pufler.dev/repos/m21248074"></img>
 <br/>
 
-<center>
+<div align="center">
 
 ![Github Metrics Classic](https://metrics.lecoq.io/m21248074?template=classic)
 
 <!--![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal)-->
 
-</center>
+</div>
 
 ### 🔥 Streak stats
 
-<center>
+<div align="center">
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=m21248074&theme=dark"></img>
 
-</center>
+</div>
 
 ### 💻 GitHub Profile Stats
 
-<center>
+<div align="center">
 
 <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21248074&theme=dark&layout=compact"/>
 <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=m21248074&show_icons=true&theme=dark"/>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-</center>
+</div>
 
 ### ⚡ Recent GitHub Activity
 
-<center>
+<div align="center">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
 
-</center>
+</div>
 
 ### 🏆 GitHub Profile Trophy
 
-<center>
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m21248074&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</center>
+</div>
 
 ## Spotify Playing 🎧
 
@@ -132,10 +132,10 @@ var Cavey = { // I am a variable, rather than a constant.
 
 ## Dev Joke For Special You
 
-<center>
+<div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![snake svg](https://raw.githubusercontent.com/adityamangal1/adityamangal1/output/github-contribution-grid-snake.svg)
 
-</center>
+</div>
