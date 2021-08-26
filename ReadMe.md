@@ -12,11 +12,11 @@ Hi there, I'm [Cavey](https://m21248074.github.io)!
 <img align="right" src="https://www.codewars.com/users/m21248074/badges/small"></img>
 <br/>
 
-<center>
+<div align="center">
 
 ![header](https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif)
 
-</center>
+</div>
 
 <div align="right">
 
