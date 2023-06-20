@@ -7,7 +7,7 @@ Hi there, I'm [Cavey](https://m21248074.github.io)!
 
 </h1>
 
-<img align="left" src="https://gpvc.arturio.dev/m21248074"></img>
+<img align="left" src="https://kounter.tk/badge/m21248074?label=&color=333&style=flat&cntPrefix=-%20&cntSuffix=%20-%20Views"></img>
 <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg"></img>
 <img align="right" src="https://www.codewars.com/users/m21248074/badges/small"></img>
 <br/>
@@ -61,8 +61,8 @@ var Cavey = { // I am a variable, rather than a constant.
     code: ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "PHP"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Game"],
     technologies: {
-        front_end: [],
-        back_end: [],
+        front_end: ["Bootstrap","JQuery","React"],
+        back_end: ["Laravel"],
         database: "MySQL"
     }
 }
