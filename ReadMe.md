@@ -7,7 +7,6 @@ Hi there, I'm [Cavey](https://m21248074.github.io)!
 
 </h1>
 
-<img align="left" src="https://kounter.tk/badge/m21248074?label=&color=333&style=flat&cntPrefix=-%20&cntSuffix=%20-%20Views"></img>
 <img align="right" src="https://badges.frapsoft.com/os/v1/open-source.svg"></img>
 <img align="right" src="https://www.codewars.com/users/m21248074/badges/small"></img>
 <br/>
@@ -81,14 +80,6 @@ var Cavey = { // I am a variable, rather than a constant.
 <img align="right" src="https://badges.pufler.dev/repos/m21248074"></img>
 <br/>
 
-<div align="center">
-
-![Github Metrics Classic](https://metrics.lecoq.io/m21248074?template=classic)
-
-<!--![Github Metrics Terminal](https://metrics.lecoq.io/m21248074?template=terminal)-->
-
-</div>
-
 ### 🔥 Streak stats
 
 <div align="center">
@@ -112,7 +103,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
 
 </div>
 
@@ -136,6 +127,6 @@ var Cavey = { // I am a variable, rather than a constant.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![snake svg](https://raw.githubusercontent.com/adityamangal1/adityamangal1/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/m21248074/m21248074/output/github-contribution-grid-snake.svg)
 
 </div>
