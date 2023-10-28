@@ -1,7 +1,6 @@
 <h1 align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></img>
-Hi there, I'm [Cavey](https://m21248074.github.io)!
+👋 Hi there, I'm [Cavey](https://m21248074.github.io)!
 <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width="25%"></img>
 <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width="15%"></img>
 
