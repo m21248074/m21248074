@@ -25,7 +25,7 @@
 [![Facebook](https://img.icons8.com/bubbles/50/000000/facebook-new.png)](https://www.facebook.com/Cavey21248074)
 [![Mail](https://img.icons8.com/bubbles/50/000000/gmail.png)](mailto:m.123051427@gmail.com)
 [![Spotify](https://img.icons8.com/bubbles/50/000000/spotify.png)](https://open.spotify.com/user/31nqesksfjtohx4syraxnobdrlem)
-[![Youtube](https://img.icons8.com/bubbles/50/000000/youtube.png)](https://www.youtube.com/channel/UCjFwMybvBWl75kiRbHNu2lA)
+<!-- [![Youtube](https://img.icons8.com/bubbles/50/000000/youtube.png)](https://www.youtube.com/channel/UCjFwMybvBWl75kiRbHNu2lA) -->
 
 </div>
 
