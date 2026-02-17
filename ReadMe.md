@@ -91,8 +91,8 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-<img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21248074&theme=dark&layout=compact"/>
-<img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=m21248074&show_icons=true&theme=dark"/>
+<img width="450px" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=m21248074&theme=dark&layout=compact"/>
+<img width="450px" align="center" src="https://github-stats-extended.vercel.app/api?username=m21248074&show_icons=true&theme=dark"/>
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
