@@ -60,9 +60,9 @@ var Cavey = { // I am a variable, rather than a constant.
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Game"],
     technologies: {
         front_end: ["Bootstrap", "JQuery", "React", "Vue", "DevExpress"],
-        back_end: ["Laravel", "ASP.NET Web API"],
+        back_end: ["Laravel", "ASP.NET Web API", "EF Core"],
         full_stack: ["Blazor"],
-        database: ["MySQL", "Oracle DB"]
+        database: ["MySQL", "Oracle DB", "SQL Server"]
     }
 }
 ```
