@@ -119,7 +119,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <img align="right" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"></img>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31nqesksfjtohx4syraxnobdrlem)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nqesksfjtohx4syraxnobdrlem&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Dev Joke For Special You
 
