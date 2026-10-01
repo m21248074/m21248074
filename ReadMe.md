@@ -103,7 +103,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
 
 </div>
 
@@ -111,7 +111,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=m21248074&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=m21248074&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -119,7 +119,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <img align="right" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"></img>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31nqesksfjtohx4syraxnobdrlem)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nqesksfjtohx4syraxnobdrlem&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Dev Joke For Special You
 
