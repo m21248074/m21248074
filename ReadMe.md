@@ -103,7 +103,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=m21248074&bg_color=1F222E&color=F8D866&point=FFFFFF"></img>
 
 </div>
 
@@ -111,7 +111,7 @@ var Cavey = { // I am a variable, rather than a constant.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=m21248074&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=m21248074&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
