@@ -31,7 +31,7 @@
 
 <div align="center">
 
-Hi, I'm Tian Kai-Wei, a Applied AI & Enterprise Developer from Taiwan.
+Hi, I'm Tian Kai-Wei, a Web Developer from Taiwan.
 
 </div>
 
@@ -39,7 +39,9 @@ Hi, I'm Tian Kai-Wei, a Applied AI & Enterprise Developer from Taiwan.
 
 <samp>
 
+- 💼 I’m currently working as a web developer, building web applications with *Laravel* and *vanilla PHP*.
 - 🌱 I’m currently learning *Redis* and *Docker*.
+- 🎮 In my spare time, I build game mods and tools (Unity mods, Guild Wars 2 add-ons, browser extensions) and work on Traditional Chinese localization.
 - 🎿 Hobbies other than coding : Reading books or about Programming, Playing games on steam and Watching the Anime.
 - 🏗️ Looking to collaborate on more Open Source projects
 - 💖 Fun fact: I love to play games about magic such as [Wizard101](https://wizard101.com).
@@ -57,7 +59,7 @@ var Cavey = { // I am a variable, rather than a constant.
     motto: "The Programmers of Tomorrow are the Wizards of the Future.",
     blogUrl: "https://m21248074.github.io/",
     code: ["C", "C++", "C#", "Java", "Python", "HTML5", "CSS3", "JavaScript ES6+", "PHP"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Game"],
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Game Modding", "Localization"],
     technologies: {
         front_end: ["Bootstrap", "JQuery", "React", "Vue", "DevExpress"],
         back_end: ["Laravel", "ASP.NET Web API", "EF Core"],
